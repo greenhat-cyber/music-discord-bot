@@ -2,8 +2,6 @@
 
 This is a Discord music bot that allows users to play music in a voice channel using commands.
 
-[![Demo Video](https://cdn.discordapp.com/attachments/1097783484614987817/1101452133099900948/Thumnail.png)](addingsooner)
-
 ## Features
 
 - Play music from YouTube, Spotify, ALL Sources 
@@ -39,8 +37,3 @@ To use this bot on your own server, you will need to follow these steps:
 ## Contributing
 
 Contributions are always welcome! If you find a bug or want to add a new feature, please create an issue or submit a pull request.
-Base On https://github.com/SudhanPlayz/Discord-MusicBot
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
